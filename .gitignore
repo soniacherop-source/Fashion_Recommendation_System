@@ -1,0 +1,17 @@
+# Ignore the data folder and all its contents (fashion_products.csv)
+data/
+*.csv
+
+# Ignore Jupyter Notebook checkpoint folders created automatically during editing
+.ipynb_checkpoints/
+
+# Ignore Python cache and environment artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Ignore IDE configuration folders (if you use VS Code or PyCharm)
+.vscode/
+.idea/
