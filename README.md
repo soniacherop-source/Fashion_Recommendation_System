@@ -1,4 +1,3 @@
-# Fashion_Recommendation_System
 # Personalised Fashion Recommendation System
 
 ## Project Overview
